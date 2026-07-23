@@ -65,7 +65,7 @@ ASP.NET Core MVC application with role-based authentication and authorization us
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/arjundroid12/student-registration-webapp.git
+   git clone https://github.com/Mansipagar210/student-registration-webapp.git
    ```
 
 2. **Open in Visual Studio**
