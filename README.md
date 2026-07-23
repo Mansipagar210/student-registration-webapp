@@ -12,7 +12,9 @@ ASP.NET Core MVC application with role-based authentication and authorization us
 
 | | |
 |---|---|
-| ![Admin navigation](docs/screenshots/1_admin_navigation.png) | <img width="1437" height="586" alt="Screenshot 2026-07-23 122010" src="https://github.com/user-attachments/assets/66fa0d26-09ab-4000-b71e-b1e8f8e95c17" /><img width="1443" height="747" alt="Screenshot 2026-07-23 122153" src="https://github.com/user-attachments/assets/84a76784-cb88-4ee3-9beb-ea62490b4038" /><img width="1448" height="688" alt="Screenshot 2026-07-23 122413" src="https://github.com/user-attachments/assets/a19c4369-f59d-4111-a7b1-e3360076abc1" />
+| ![Admin navigation](docs/screenshots/1_admin_navigation.png) |<img width="1513" height="1040" alt="ChatGPT Image Jul 23, 2026, 12_23_43 PM" src="https://github.com/user-attachments/assets/dd6782d6-d3a7-4f91-8452-1ee1e0cd6113" /><img width="1814" height="867" alt="ChatGPT Image Jul 23, 2026, 12_25_13 PM" src="https://github.com/user-attachments/assets/acb03475-7f7f-4003-afb8-633229b33201" /><img width="1717" height="916" alt="ChatGPT Image Jul 23, 2026, 12_23_26 PM" src="https://github.com/user-attachments/assets/5a344b31-bfa9-4acc-93b1-0d31a0ee07c7" />
+
+
 
 
 
